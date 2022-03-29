@@ -1,5 +1,5 @@
 # hello-world-
-New repository, second attempt
+New repository, second attempt.
 >My name is Angie Chambers.
 >I am the mom to 5 grown children and a wife to a deputy sheriff.
 >I am seeking a second degree in GIST.
